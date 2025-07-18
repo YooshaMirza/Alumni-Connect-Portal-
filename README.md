@@ -11,8 +11,6 @@ A comprehensive platform designed to connect alumni, foster networking, and buil
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.1-38B2AC?logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5.4.2-646CFF?logo=vite&logoColor=white)
 
-![Alumni Connect Portal](https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&dpr=1)
-
 ## 🌟 Features
 
 ### Core Features ✅
@@ -54,22 +52,14 @@ A comprehensive platform designed to connect alumni, foster networking, and buil
 ### Landing Page
 *Modern hero section with compelling call-to-action and feature highlights*
 
-![Landing Page](https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
-
 ### Alumni Directory
 *Comprehensive directory with advanced filtering and search capabilities*
-
-![Alumni Directory](https://images.pexels.com/photos/1595391/pexels-photo-1595391.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ### Community Feed
 *Interactive feed for sharing updates, opportunities, and engaging with the community*
 
-![Community Feed](https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
-
 ### Profile Pages
 *Detailed alumni profiles showcasing professional journey and achievements*
-
-![Profile Page](https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 🚀 Technology Stack
 
