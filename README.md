@@ -4,6 +4,12 @@ A comprehensive platform designed to connect alumni, foster networking, and buil
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-blue?style=for-the-badge)](https://clever-chebakia-42bf58.netlify.app/)
 [![GitHub](https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge)](https://github.com/YooshaMirza/Alumni-Connect-Portal-.git)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/clever-chebakia-42bf58/deploy-status)](https://app.netlify.com/sites/clever-chebakia-42bf58/deploys)
+
+![React](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.1-38B2AC?logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-5.4.2-646CFF?logo=vite&logoColor=white)
 
 ![Alumni Connect Portal](https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&dpr=1)
 
