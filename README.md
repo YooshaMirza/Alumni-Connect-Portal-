@@ -1,8 +1,13 @@
-# 🎓 Alumni Connect Portal
-
-A comprehensive platform designed to connect alumni, foster networking, and build lasting relationships within educational communities. This modern web application provides a centralized space for alumni to maintain profiles, engage with peers, and participate in community discussions.
+# 🌐 Live Demo
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-blue?style=for-the-badge)](https://clever-chebakia-42bf58.netlify.app/)
+
+---
+
+# 🎓 Alumni Connect Portal
+
+A comprehensive platform designed to connect alumni, foster networking, and build lasting relationships within educational communities. This modern web application provides a centralized space for alumni to interact, share opportunities, and stay engaged with their alma mater.
+
 [![GitHub](https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge)](https://github.com/YooshaMirza/Alumni-Connect-Portal-.git)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/clever-chebakia-42bf58/deploy-status)](https://app.netlify.com/sites/clever-chebakia-42bf58/deploys)
 
@@ -259,14 +264,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Icons** - Lucide React icon library
 - **Images** - Pexels for high-quality stock photography
 - **Fonts** - Google Fonts (Inter family)
-
-## 📞 Support
-
-For support and questions:
-- 📧 Email: support@alumniconnect.com
-- 💬 Discord: [Join our community](https://discord.gg/alumniconnect)
-- 📖 Documentation: [View full docs](https://docs.alumniconnect.com)
-
 ---
 
 <div align="center">
