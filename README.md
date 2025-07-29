@@ -1,6 +1,6 @@
 # 🌐 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-blue?style=for-the-badge)](https://clever-chebakia-42bf58.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-blue?style=for-the-badge)]([https://clever-chebakia-42bf58.netlify.app/](https://alumniconnectproject.netlify.app/)](https://alumniconnectproject.netlify.app/)
 
 ---
 
